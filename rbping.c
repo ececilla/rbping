@@ -2,7 +2,7 @@
     name rbping.cc
     desc: Reboot By IP packet
     type: Linux kernel module
-    author: Paco Diaz, Enric Cecilla
+    author: Enric Cecilla
     usage: ping -p "deadbaba" ip
     tested: linux-2.4.26
 */
